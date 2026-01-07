@@ -49,10 +49,10 @@ We conduct our experiments on three trajectory datasets and corresponding road n
 
 ## Pre-Train
 
-You can pre-train **AutoPRL** through the following commands：
+You can pre-train **DGCPath** through the following commands：
 
 ```shell
-python train.py 
+python dgcpath-train.py 
 
  ## Fine-tune
 
